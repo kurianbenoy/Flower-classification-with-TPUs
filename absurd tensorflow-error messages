@@ -1,0 +1,5 @@
+## Tensorflow error messages
+
+- 1. Input images value error: expect to be of dimension (4,) but got input (1,)
+
+(didn't pass decode_image )
